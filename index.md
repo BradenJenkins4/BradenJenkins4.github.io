@@ -29,5 +29,5 @@ I am in my second semester of the Master’s Program after graduating with my Ba
 - [Another Certification Name], [Issuing Organization], [Date]
 ## References
 
-![image](https://github.com/BradenJenkins4/BradenJenkins4.github.io/assets/142950724/9a8b88fb-fe2c-4cbb-83e0-365fc5b49acd)
+
 
