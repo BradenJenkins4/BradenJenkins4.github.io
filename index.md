@@ -17,17 +17,10 @@ I am in my second semester of the Master’s Program after graduating with my Ba
 - Preparing Individual, Business, Trust, and Estate Tax Returns
 - Inputting Oil & Gas information into Excel Spreadsheets for use by others
 - Preparing IRS Letters for clients
-## Publications
-- "[Title of Paper]", *Journal Name*, [Year]
-- "[Another Title]", *Another Journal Name*, [Year]
-## Skills
-- **Programming Languages:** STATA, Python, SAS
-- **Accounting Software:** [List relevant software here]
-- **Other Skills:** [List other relevant skills here]
 ## Certifications
 - [Certification Name], [Issuing Organization], [Date]
 - [Another Certification Name], [Issuing Organization], [Date]
 ## References
-
+Available upon request.
 
 
